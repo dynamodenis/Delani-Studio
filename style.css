@@ -1,10 +1,10 @@
 body{
-    margin: 0;
-    padding: 0;
+    height: auto;
+    background-color: #e9ecef;
 }
 #hcontent{
     background-image: url("images/h_img.jpg");
-    height: 800px; 
+    height: 700px; 
     background-position: center center;
     background-size: cover;
     margin-top: 0px;
@@ -24,4 +24,15 @@ body{
 }
 .click{
     animation: 2s infinite;
+}
+.about{
+    margin-top: 200px;
+    text-align: center;
+}
+.about h2{
+    font-size: 3em;
+    font-weight: bolder;
+}
+.services{
+    background-image: url("images/s_image.jpg");
 }
