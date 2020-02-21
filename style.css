@@ -54,3 +54,6 @@ body{
     font-weight: bold;
     padding-top: 10px;
 }
+.portfolio img{
+    width: 100%;
+}
