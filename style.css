@@ -48,12 +48,20 @@ body{
 .WWD h2{
     font-size: 3em;
     font-weight: bolder;
-    padding-top: 20px;
+    padding-top: 50px;
 }
 .WWD h3{
     font-weight: bold;
     padding-top: 10px;
 }
+/* This code positions all portfolio images and aligns them */
 .portfolio img{
     width: 100%;
 }
+.portfolio h4{
+    text-align: center;
+    font-size: 3em;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+/* This code  */
