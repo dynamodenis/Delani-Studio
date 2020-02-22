@@ -67,7 +67,9 @@ body{
 /* This code designs the  contact form and and contact back ground image */
 .contact{
     background-image: url("images/c_image.jpg");
-    height: 300%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
 }
 /* This designs the social media icons */
 #icons li{
