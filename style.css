@@ -2,15 +2,12 @@ body{
     height: 100%;
     background-color: #e9ecef;
 }
-/* #hcontent{
-    background-image: url("images/h_img.jpg");
-    height: 600px; 
+ #hcontent{
+    background-image: url("images/h_img.jpg"); 
     background-position: center;
     background-size: cover;
-    padding-top: 10px;
-    padding-bottom: 150px;
-    background-repeat: no-repeat;*/
-
+    background-repeat: no-repeat;
+    padding-top: 50px;
 }
 .wel{
     color: white;
