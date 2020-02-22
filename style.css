@@ -105,4 +105,7 @@ h5{
     margin-right: auto;
     padding-top: 50px;
 }
-
+/* This css style the footer */
+footer{
+    text-align: center;
+}
