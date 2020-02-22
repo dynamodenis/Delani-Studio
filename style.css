@@ -65,11 +65,33 @@ body{
     padding-top: 50px;
 }
 /* This code designs the  contact form and and contact back ground image */
+.con{
+    padding-top: 50px;
+}
 .contact{
     background-image: url("images/c_image.jpg");
-    height: 400px;
+    height: auto;
     background-size: cover;
     background-position: center;
+    display: block;
+    padding-top: 50px;
+}
+form{
+    display: block;
+    text-align: center;
+    padding-bottom: 10px;
+}
+#name{
+    border: 1pt black solid;
+    background-color: transparent;
+}
+h5{
+    text-align: center;
+    font-size: 3em;
+    font-weight: bolder;
+}
+.btn{
+    margin-left: 445px;
 }
 /* This designs the social media icons */
 #icons li{
