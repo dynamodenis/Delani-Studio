@@ -64,4 +64,20 @@ body{
     font-weight: bolder;
     padding-top: 50px;
 }
-/* This code  */
+/* This code designs the  contact form and and contact back ground image */
+.contact{
+    background-image: url("images/c_image.jpg");
+    height: 300%;
+}
+/* This designs the social media icons */
+#icons li{
+    text-decoration: none;
+    list-style-type: none;
+    display: inline-block;
+}
+#icons{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
