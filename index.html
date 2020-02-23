@@ -73,7 +73,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-3">
-                            <img src="images/work1.jpg">
+                            <img src="images/work1.jpg" class="img">
+                            <div class="overlay">Jim Carrey Studio</div>
                         </div>
                         <div class="col-md-3">
                             <img src="images/work2.jpg">
@@ -106,13 +107,13 @@
     <div class="con">
         <div class="contact">
             <h5>CONTACT US</h5>
-                <form action="submit">
-                    <input  id="name" type="text" placeholder="Name..." size="25">
-                    <input id="name" type="text" placeholder="Email..." size="25">
+                <form method="POST">
+                    <input  id="name" class="user" type="text" placeholder="Name..." size="25">
+                    <input id="name" class="email" type="email" placeholder="Email..." size="25">
                     <br><br><br>
-                    <textarea id="name" placeholder="Subject..." cols="54" rows="10"></textarea>
+                    <textarea id="name" class="text" placeholder="Subject..." cols="54" rows="10"></textarea>
                     <br>
-                    <input type="submit" class="btn bg-danger">           
+                    <input type="submit" class="btn bg-danger" value="Submit" class="btn">           
                 </form>
         </div>
     </div>
