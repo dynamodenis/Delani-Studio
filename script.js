@@ -9,12 +9,6 @@ $(document).ready(function(){
         $(".productp").toggle();
     });
     // hover effect on the portfolio//
-    // $(".img").mouseenter(function(){
-    //     $(".img,.img2,.img3,.img4,.img5,.img6,.img7,.img8").css('background','white').fadeTo("slow" ,"0.4")
-    // });
-    // $(".img").mouseleave(function(){
-    //     $(".img,.img2,.img3,.img4,.img5,.img6,.img7,.img8").css('background','white').fadeTo("fast" ,"1")
-    // });
 
 
     // This submits the contact us form//
