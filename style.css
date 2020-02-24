@@ -83,7 +83,7 @@ form{
     border: 1pt black solid;
     background-color: transparent;
 }
-h5{
+.contact h5{
     text-align: center;
     font-size: 3em;
     font-weight: bolder;
