@@ -19,7 +19,7 @@ $(document).ready(function(){
        if(!userName || !email || !textarea){
             alert("Failed, please insert correct Name, Email and Message!")
        }else(
-            alert(userName+","+" "+ "your message was received. Thank You!")
+            
        );
         $("form").reset();
         event.preventDefault(); 
