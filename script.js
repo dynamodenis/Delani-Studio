@@ -8,7 +8,10 @@ $(document).ready(function(){
     $(".product").click(function(){
         $(".productp").toggle();
     });
-    // hover effect on the portfolio//
+    // hover effect on portfolio
+    $(".img").hover(function(){
+        $("img").css("background-color","white");
+    })
 
 
     // This submits the contact us form//
