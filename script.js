@@ -19,7 +19,7 @@ $(document).ready(function(){
        if(!userName || !email || !textarea){
             alert("Failed, please insert correct Name, Email and Message!")
        }else(
-            
+            alert(userName+","+" "+ "your enquiry has been submitted successfully. Thank you!")
        );
         $("form").reset();
         event.preventDefault(); 
